@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="./style.css">
+  <style>
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Josefin+Sans:ital,wght@1,700&display=swap');
+</style>
+  <title>ADESSO</title>
+</head>
+
+<body>
+<header>
+  <h1>ADESSO</h1>
+  
+<div align="centre"><h3><b><small>DAS AKTUELLE MAGAZIN IN ITALIENISCH</small></b></h3></div>
+<div align="right"><a href="">www.adesso-online.de</a></div>
+</header>
+
+  <article>
+    <a href="index.html"></a><img src="pic.jpg">
+    <p><i>Speziale</i></p>
+    <aside><b>VENEZIA</b></aside>
+    <aside>viagi</aside>
+    <aside>Il fascino di fine estate</aside>
+    
+  </article>
+  <div class="text">
+      Chi sono e come sono i giovani italiani? Nel 2007 il ministro delle Finanze italiano Tommaso Padoa Schioppa chiama i ragazzi italiani “bamboccioni”, perché rimangono a casa con i genitori anche dopo i 30 anni di età. Oggi i giovani vanno a vivere da soli prima. Molti di loro, circa 200.000 ogni anno, vanno a vivere e lavorare all’estero. Chi resta in Italia si preoccupa per il lavoro. Una ricerca della società di statistica Ipsos e dell’Istituto Giuseppe Toniolo di Studi Superiori dice che il 72% dei giovani ha paura di non trovare un lavoro stabile. In Italia ci sono poi ragazzi che non studiano e non lavorano: i Neet (Not in education, employment or training) sono il 23% dei giovani e vivono soprattutto al Sud.
+  </div>
+  <footer>
+    <div align="right"><p><i>Storia: Da Mussolini a Berlusconi -V parte</i></p></div>
+    <table align="center" width="90%">  
+      <tr>
+        <td><b>Lingua</b></td>
+       <td><b>Intervista a...</b></td>
+        <td><b>Litalia a tavola</b></td>
+      </tr>
+      <tr>
+        <td>Ubriaco, alticcio o</td>
+        <td>Massimo Rocchi</td>
+        <td>Mangiar bene e</td>
+      </tr>
+      <tr>
+      <td>stronzo? Impara con</td>
+      <td>comicita e stereotipi</td>
+      <td>spendere poco nei</td>
+      </tr>
+      
+      <tr>
+      <td>Mario, litaliano doc.</td>
+      <td>sui popoli europei.</td>
+      <td><i>bacari</i> di Venezia</td>
+      </tr>
+    </table>
+  </footer>
+  
+</body>
+</html> 
